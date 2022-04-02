@@ -24,3 +24,9 @@ Version: 0.0.5
 Date: 2021-08-03
   Changes:
     - Added more useful mods
+---------------------------------------------------------------------------------------------------
+Version: 0.0.6
+Date: 2022-04-03
+  Changes:
+    - Added more useful mods
+    - Set some mods as optional
