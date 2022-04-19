@@ -30,3 +30,9 @@ Date: 2022-04-03
   Changes:
     - Added more useful mods
     - Set some mods as optional
+---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+Date: 2022-04-19
+  Changes:
+    - Added more useful mods
+    - Set some mods as optional
